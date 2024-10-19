@@ -6,6 +6,8 @@ export function simple (){
     console.log("Simple is complex so try to understand ")
 }
 
+console.log("Hello Day 5"); 
+
 // use module to export 
 // module.exports = simple
 
