@@ -7,6 +7,7 @@ export function simple (){
 }
 
 console.log("Hello Day 5"); 
+console.log("Hello Day 6");
 
 // use module to export 
 // module.exports = simple
